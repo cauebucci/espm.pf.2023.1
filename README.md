@@ -4,6 +4,7 @@ Sources feitas em python durante a matéria de Programação Funcional, no 4º s
 
 ## Exercícios 
 - [Exercícios desenvolvidos em aula](https://github.com/cauebucci/espm.pf.2023.2/tree/main/aulas)
-
+## Atividades
+- [Atividade 1](https://github.com/cauebucci/espm.pf.atividade1.2023.2)
 
 
