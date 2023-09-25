@@ -337,3 +337,327 @@ JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch
 JavaScript warning: https://www.nba.com/c-7-9-hUrj/0rOfz3dr/i5/kOE9zkS5iG/R0l7YXhJDAQ/PEE/JXnlPWjUB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 JavaScript warning: https://www.nba.com/c-7-9-hUrj/0rOfz3dr/i5/kOE9zkS5iG/R0l7YXhJDAQ/PEE/JXnlPWjUB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 JavaScript warning: https://www.nba.com/c-7-9-hUrj/0rOfz3dr/i5/kOE9zkS5iG/R0l7YXhJDAQ/PEE/JXnlPWjUB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1695639178188	geckodriver	INFO	Listening on 127.0.0.1:51011
+1695639181157	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51012" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAUEBU~1\\AppData\\Local\\Temp\\rust_mozprofilelKLl9G"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695639182804	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695639183003	Marionette	INFO	Listening on port 51028
+WebDriver BiDi listening on ws://127.0.0.1:51012
+Read port: 51028
+1695639183147	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51012/devtools/browser/fe346b06-4ae6-4220-8999-d651fc3dd6f0
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1695639236084	geckodriver	INFO	Listening on 127.0.0.1:51143
+1695639238985	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51144" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAUEBU~1\\AppData\\Local\\Temp\\rust_mozprofileKjTMi2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695639240544	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695639240758	Marionette	INFO	Listening on port 51153
+WebDriver BiDi listening on ws://127.0.0.1:51144
+Read port: 51153
+1695639241236	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51144/devtools/browser/6508bc1b-df53-43df-beee-9e101dc93b31
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1695639338511	geckodriver	INFO	Listening on 127.0.0.1:51514
+1695639341699	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51515" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAUEBU~1\\AppData\\Local\\Temp\\rust_mozprofileHEUbDe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695639343178	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695639343476	Marionette	INFO	Listening on port 51535
+WebDriver BiDi listening on ws://127.0.0.1:51515
+Read port: 51535
+1695639344182	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51515/devtools/browser/c9e689c4-8dcd-4a01-86ea-4445afbe7655
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/newrelic/newrelic-prod.js, line 2: Script terminated by timeout at:
+nrWrapper@https://www.nba.com/newrelic/newrelic-prod.js:2:25922
+
+1695640191095	Marionette	INFO	Stopped listening on port 51535
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+rvices.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695640166733	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695640166872	Marionette	INFO	Listening on port 53952
+WebDriver BiDi listening on ws://127.0.0.1:53941
+Read port: 53952
+1695640167264	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53941/devtools/browser/eb21461c-db8b-448c-8951-c8b94c8fc742
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kCe9S3aj7jfUjwYx99ulknlDr7XLXs4KDWbr4KPVvU0.js line 2 > eval line 3318 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/tGcDLxZnxcZjneq6ZTfMhLSKmVRaNAcBIKHxIKG0fIc.js line 2 > eval line 1260 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/tGcDLxZnxcZjneq6ZTfMhLSKmVRaNAcBIKHxIKG0fIc.js line 2 > eval line 6013 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://t.contentsquare.net/uxa/442bf891da800.js, line 1: Script terminated by timeout at:
+ji@https://t.contentsquare.net/uxa/442bf891da800.js:1:82865
+send@https://t.contentsquare.net/uxa/442bf891da800.js:1:82519
+sendLastMessageBeacon@https://t.contentsquare.net/uxa/442bf891da800.js:1:79789
+Ci/<@https://t.contentsquare.net/uxa/442bf891da800.js:1:80975
+Te/this.ni@https://t.contentsquare.net/uxa/442bf891da800.js:1:77308
+nrWrapper@https://www.nba.com/newrelic/newrelic-prod.js:2:26066
+
+1695640193282	Marionette	INFO	Stopped listening on port 53952
+Dynamically enable window occlusion 1
+1695640312981	geckodriver	INFO	Listening on 127.0.0.1:54346
+1695640315967	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54347" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAUEBU~1\\AppData\\Local\\Temp\\rust_mozprofileVtNRZ6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695640316643	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695640316774	Marionette	INFO	Listening on port 54357
+WebDriver BiDi listening on ws://127.0.0.1:54347
+Read port: 54357
+1695640317128	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54347/devtools/browser/ccff18c4-6bdf-47ed-864a-dc483f63d47f
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/newrelic/newrelic-prod.js, line 2: Script terminated by timeout at:
+nrWrapper@https://www.nba.com/newrelic/newrelic-prod.js:2:25922
+
+1695640326699	Marionette	INFO	Stopped listening on port 54357
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1695640326789	WebDriver BiDi	ERROR	Failed to stop protocol: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@cert.sys.mjs:51
+destroy()@Session.sys.mjs:215
+deleteSession()@WebDriverBiDi.sys.mjs:140
+stop()@WebDriverBiDi.sys.mjs:228
+observe()@resource://gre/modules/AsyncShutdown.sys.mjs:573
+1695640341316	geckodriver	INFO	Listening on 127.0.0.1:54443
+1695640344316	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54444" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAUEBU~1\\AppData\\Local\\Temp\\rust_mozprofilefgdvPV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695640344999	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695640345141	Marionette	INFO	Listening on port 54455
+WebDriver BiDi listening on ws://127.0.0.1:54444
+Read port: 54455
+1695640345494	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54444/devtools/browser/8d1b55dd-bf4c-472d-953d-5c9329c8ecee
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/tGcDLxZnxcZjneq6ZTfMhLSKmVRaNAcBIKHxIKG0fIc.js line 2 > eval line 6303 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kCe9S3aj7jfUjwYx99ulknlDr7XLXs4KDWbr4KPVvU0.js line 2 > eval line 6756 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/tGcDLxZnxcZjneq6ZTfMhLSKmVRaNAcBIKHxIKG0fIc.js line 2 > eval line 4735 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/tGcDLxZnxcZjneq6ZTfMhLSKmVRaNAcBIKHxIKG0fIc.js line 2 > eval line 925 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1695640447480	geckodriver	INFO	Listening on 127.0.0.1:54779
+1695640450448	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54780" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAUEBU~1\\AppData\\Local\\Temp\\rust_mozprofile2ZeXdD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695640451181	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695640451342	Marionette	INFO	Listening on port 54791
+WebDriver BiDi listening on ws://127.0.0.1:54780
+Read port: 54791
+1695640451697	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54780/devtools/browser/3c1cdf8a-f6bb-4a82-badf-1085537216e3
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1695640487509	geckodriver	INFO	Listening on 127.0.0.1:54887
+1695640490498	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54888" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAUEBU~1\\AppData\\Local\\Temp\\rust_mozprofileq7JOVJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695640491123	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695640491265	Marionette	INFO	Listening on port 54898
+Read port: 54898
+WebDriver BiDi listening on ws://127.0.0.1:54888
+1695640491374	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54888/devtools/browser/fc295f7e-396d-4084-9c5d-eaecc4938621
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1695640578659	geckodriver	INFO	Listening on 127.0.0.1:55031
+1695640581629	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55032" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAUEBU~1\\AppData\\Local\\Temp\\rust_mozprofileo7YswZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695640582353	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695640582497	Marionette	INFO	Listening on port 55042
+WebDriver BiDi listening on ws://127.0.0.1:55032
+Read port: 55042
+1695640582730	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55032/devtools/browser/29684c4b-c4d6-4ecd-9d3f-e5fa0f04552d
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1695640643505	geckodriver	INFO	Listening on 127.0.0.1:55212
+1695640646435	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55213" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAUEBU~1\\AppData\\Local\\Temp\\rust_mozprofile8pi1Xu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695640647347	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695640647571	Marionette	INFO	Listening on port 55231
+WebDriver BiDi listening on ws://127.0.0.1:55213
+Read port: 55231
+1695640647981	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55213/devtools/browser/80402b45-ff1a-4b5b-8fb3-d51853154004
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1695640799560	geckodriver	INFO	Listening on 127.0.0.1:55468
+1695640802589	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55469" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAUEBU~1\\AppData\\Local\\Temp\\rust_mozprofileX82ZfF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695640803449	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695640803622	Marionette	INFO	Listening on port 55479
+WebDriver BiDi listening on ws://127.0.0.1:55469
+Read port: 55479
+1695640804020	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55469/devtools/browser/c5c80956-44f5-4ab4-9857-605f68a45a9f
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1695641214929	geckodriver	INFO	Listening on 127.0.0.1:55833
+1695641217882	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55834" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAUEBU~1\\AppData\\Local\\Temp\\rust_mozprofileWUD1f1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695641218893	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695641219104	Marionette	INFO	Listening on port 55846
+WebDriver BiDi listening on ws://127.0.0.1:55834
+Read port: 55846
+1695641219548	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55834/devtools/browser/7db03831-5e2d-4f48-9e3c-9793a302b2d5
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1695641245757	geckodriver	INFO	Listening on 127.0.0.1:55931
+1695641248750	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55932" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAUEBU~1\\AppData\\Local\\Temp\\rust_mozprofileyyF3AW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695641249502	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695641249651	Marionette	INFO	Listening on port 55942
+WebDriver BiDi listening on ws://127.0.0.1:55932
+Read port: 55942
+1695641250030	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55932/devtools/browser/a49184f0-c9a1-4bb5-968e-b0c80d0500cc
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1695641489854	geckodriver	INFO	Listening on 127.0.0.1:56163
+1695641492906	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56164" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAUEBU~1\\AppData\\Local\\Temp\\rust_mozprofileobsqy7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695641493620	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695641493767	Marionette	INFO	Listening on port 56183
+WebDriver BiDi listening on ws://127.0.0.1:56164
+Read port: 56183
+1695641494011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56164/devtools/browser/f415c8aa-eba7-4365-887c-bbd0fb01b621
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1695641589538	geckodriver	INFO	Listening on 127.0.0.1:56314
+1695641592538	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56315" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAUEBU~1\\AppData\\Local\\Temp\\rust_mozprofilejFWtmp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695641593307	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695641593482	Marionette	INFO	Listening on port 56329
+WebDriver BiDi listening on ws://127.0.0.1:56315
+Read port: 56329
+1695641593741	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56315/devtools/browser/779233d8-b6ae-461b-8ba3-3433a15e54b3
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1695641957688	geckodriver	INFO	Listening on 127.0.0.1:56678
+1695641960734	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "5667 ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAUEBU~1\\AppData\\Local\\Temp\\rust_mozprofileljai22"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695641961443	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695641961552	Marionette	INFO	Listening on port 56690
+WebDriver BiDi listening on ws://127.0.0.1:56679
+Read port: 56690
+1695641961867	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56679/devtools/browser/a9fde70c-7906-4544-a3f1-3c68aee0d4c3
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1695642370547	geckodriver	INFO	Listening on 127.0.0.1:57041
+1695642373543	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "5704 ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAUEBU~1\\AppData\\Local\\Temp\\rust_mozprofilemWzWyk"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695642374318	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695642374434	Marionette	INFO	Listening on port 57053
+WebDriver BiDi listening on ws://127.0.0.1:57042
+Read port: 57053
+1695642374789	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57042/devtools/browser/08445f83-cf4d-4922-8746-b08a45c2aab0
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/Vn1nLrjALZIO/WCkQ23/eWPfta/a9Ybmc5EOh/Ay4KP0QVAw/cGMOS/l5GNxYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
